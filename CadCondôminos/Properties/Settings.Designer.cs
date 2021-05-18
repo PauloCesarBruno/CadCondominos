@@ -26,7 +26,7 @@ namespace CadCondôminos.Properties {
         [global::System.Configuration.ApplicationScopedSettingAttribute()]
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
         [global::System.Configuration.SpecialSettingAttribute(global::System.Configuration.SpecialSetting.ConnectionString)]
-        [global::System.Configuration.DefaultSettingValueAttribute("Data Source=DESKTOP-CBCKVV5;Initial Catalog=Predio;User ID=sa;Password=Paradoxo22" +
+        [global::System.Configuration.DefaultSettingValueAttribute("Data Source=DESKTOP-EJP79KA;Initial Catalog=Predio;User ID=sa;Password=Paradoxo22" +
             "")]
         public string StringConexao {
             get {
